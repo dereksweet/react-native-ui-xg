@@ -42,8 +42,8 @@
     "jsdom": "^9.11.0",
     "pre-commit": "^1.2.2",
     "prop-types": "^15.6.0",
-    "react": "16.0.0-alpha.12",
-    "react-native": "0.46.2",
+    "react": "16.2.0",
+    "react-native": "0.53.0",
     "react-native-navigation": "^1.1.134",
     "react-test-renderer": "16.0.0-alpha.12"
   },
